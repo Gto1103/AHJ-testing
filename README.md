@@ -6,5 +6,4 @@
 
 Status CI: [![Build status](https://ci.appveyor.com/api/projects/status/fnf8mxx1w8j6bwa5?svg=true)](https://ci.appveyor.com/project/Gto1103/ahj-testing)
 
-[Git Pages]()
-
+[Git Pages](https://gto1103.github.io/AHJ-testing/)
