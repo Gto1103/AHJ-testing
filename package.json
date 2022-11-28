@@ -37,6 +37,7 @@
     "jest": "^29.2.2",
     "live-server": "^1.2.2",
     "mini-css-extract-plugin": "^2.6.1",
+    "puppeteer": "^19.3.0",
     "resolve-url-loader": "^5.0.0",
     "terser-webpack-plugin": "^5.3.6",
     "url-loader": "^4.1.1",
@@ -47,7 +48,6 @@
   },
   "repository": "https://github.com/Gto1103/AHJ-testing.git",
   "dependencies": {
-    "core-js": "^3.26.1",
-    "puppeteer": "^19.3.0"
+    "core-js": "^3.26.1"
   }
 }
